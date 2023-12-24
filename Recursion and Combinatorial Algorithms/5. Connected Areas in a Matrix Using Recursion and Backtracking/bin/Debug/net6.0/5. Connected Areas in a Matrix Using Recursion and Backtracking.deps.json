@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "5. Connected Areas in a Matrix Using Recursion and Backtracking/1.0.0": {
+        "runtime": {
+          "5. Connected Areas in a Matrix Using Recursion and Backtracking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5. Connected Areas in a Matrix Using Recursion and Backtracking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
