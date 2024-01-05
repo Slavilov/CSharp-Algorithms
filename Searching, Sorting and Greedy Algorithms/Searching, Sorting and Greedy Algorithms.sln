@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Linear Search Algorithm", "1. Linear Search Algorithm\1. Linear Search Algorithm.csproj", "{B3F0D89A-8C91-4BC1-8F4B-5FD640E5CD57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Binary Search Algorithm", "2. Binary Search Algorithm\2. Binary Search Algorithm.csproj", "{A9AA7224-BB42-4051-BFC7-B03950EF923C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F0D89A-8C91-4BC1-8F4B-5FD640E5CD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F0D89A-8C91-4BC1-8F4B-5FD640E5CD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F0D89A-8C91-4BC1-8F4B-5FD640E5CD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F0D89A-8C91-4BC1-8F4B-5FD640E5CD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AA7224-BB42-4051-BFC7-B03950EF923C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AA7224-BB42-4051-BFC7-B03950EF923C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AA7224-BB42-4051-BFC7-B03950EF923C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AA7224-BB42-4051-BFC7-B03950EF923C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67CBF8BC-280A-45D6-8360-268DC71D80C4}
+	EndGlobalSection
+EndGlobal
