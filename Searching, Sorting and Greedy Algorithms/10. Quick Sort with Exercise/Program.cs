@@ -4,7 +4,10 @@ class Program
 {
     static void Main()
     {
-        int[] data = { 10, 7, 8, 9, 1, 5 };
+        int[] data =  Console.ReadLine()
+            .Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries)
+            .Select(int.Parse)
+            .ToArray();
         int n = data.Length;
         Console.WriteLine("Original Array:");
         PrintArray(data);
