@@ -40,7 +40,7 @@ namespace Algos
                 var component = new List<int>();
                 DFS(node, component);
 
-                Console.WriteLine(string.Join(" ", component));
+                Console.WriteLine($"Connected component: {string.Join(" ", component)}");
             }
 
         }
